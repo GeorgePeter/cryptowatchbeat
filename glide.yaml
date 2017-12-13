@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/elastic/beats
+- package: github.com/ChimeraCoder/anaconda
+- package: github.com/dustin/gojson
+- package: github.com/GeorgePeter/cryptowatch-go

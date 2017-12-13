@@ -1,0 +1,9 @@
+/.idea
+/vendor
+/build
+
+.DS_Store
+/cryptowatchbeat
+/cryptowatchbeat.test
+cryptowatchbeat.yml
+*.pyc

@@ -1,0 +1,5 @@
+= Cryptowatchbeat Docs
+
+Welcome to the Cryptowatchbeat documentation.
+
+
